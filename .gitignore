@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch checkpoints and training outputs
+checkpoints/
+*.pth
+*.pt
+
+# Datasets (optional — if large or downloaded separately)
+data/
+*.zip
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visualizations
+*.png
+*.jpg
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.swp
